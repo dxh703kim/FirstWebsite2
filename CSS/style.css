@@ -76,9 +76,10 @@ a:hover {
     font-size: 15px;
     font-weight: bold;
     font-style: italic;
-    line-height: 10px;
+    /* line-height: 10px; */
     position: relative;
-    left: -364px;
+    text-align: left;
+    left: -154px;
     width: 500px;
 }
 
@@ -119,8 +120,9 @@ img {
 #link {
     font-family: 'Asap', sans-serif;
     position: relative;
-    left: 300px;
+    left: 398px;
     text-align: right;
+    width: 500px;
 }
 
 /* .camera {
