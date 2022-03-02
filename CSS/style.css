@@ -1,0 +1,178 @@
+* {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+}
+
+
+
+h1 {
+    color:rgb(82, 59, 18);
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+strong {
+    font-weight: normal;
+}
+
+p {
+    color:rgb(153, 137, 119);
+    font-weight: normal; /* bold, normal */
+    text-transform: none; /* uppercase, loswercase, capitalize */
+    font-style: normal; /* italic */
+    line-height: 20px; /* normal, px value */
+    letter-spacing: normal; /* normal, px value */
+    font-size: 14px;
+    margin: auto;
+}
+
+body {
+    background: rgb(204, 182, 140);
+}
+
+#citation {
+    color:rgb(61, 47, 20);
+    text-align: left;
+    position: relative;
+    left: -300px;
+    width: 500px;
+}
+
+#second {
+    color:rgb(61, 47, 20);
+    position: relative;
+    left: 300px;
+    text-align: right;
+    width: 500px;
+}
+
+.new-class {
+    font-size:20px;
+    background:yellow;
+}
+
+a{
+    font-size: 20px;
+    text-decoration:none;
+    line-height: 110px;
+}
+
+a:visited {
+    color:rgb(61, 47, 20);
+    text-decoration: none;
+
+}
+a:hover {
+    color: rgb(37, 37, 88);
+    text-decoration: underline;
+
+}
+
+#sentence {
+    color:rgb(61, 47, 20);
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 10px;
+    position: relative;
+    left: -364px;
+    width: 500px;
+}
+
+#container {
+    margin: auto;
+    width: 70%;
+    /* background: rgb(214, 154, 164);
+    border-style: dotted;
+    border-color: blueviolet;
+    border-width: 5px;
+    width: 200px; */
+}
+
+#shape {
+    height: 300px;
+    width: 300px;
+    background: yellow;
+}
+
+#circle {
+    height: 200px;
+    width: 200px;
+    background: palevioletred;
+    border-radius: 200px;
+}
+
+img {
+    size: 70%;
+    margin: auto;
+    line-height: 50px;
+}
+
+#space {
+    line-height: 50px;
+    color: rgb(204, 182, 140);
+}
+
+#link {
+    font-family: 'Asap', sans-serif;
+    position: relative;
+    left: 300px;
+    text-align: right;
+}
+
+.camera {
+    position: relative;
+
+}
+
+#rectangle {
+    height: 100px;
+    width: 180px;
+    background: rgb(184, 160, 117);
+    top: 50px;
+    left: 322px;
+}
+
+#circle {
+    height: 80px;
+    width: 80px;
+    background: rgb(170, 147, 105);
+    border-radius: 50%;
+    top: -90px;
+    left: 374px;
+}
+
+#button {
+    height: 20px;
+    width: 40px;
+    background: rgb(170, 147, 105);
+    top: -245px;
+    left: 457px;
+    z-index: -10;
+}
+
+
+/* 
+.circle {
+    width: 30px;
+    height: 30px;
+    background: rgb(155, 137, 105);
+    border-radius: 50%;
+    position: absolute;
+    top: 1260px;
+}
+
+#circle-1 {
+    left: 500px;
+}
+
+#circle-2 {
+    left: 585px;
+}
+
+#circle-3 {
+    left: 670px;
+} */
